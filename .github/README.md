@@ -1,7 +1,7 @@
 # Sylox - Syntactic Logic Exploration
 Enhancing Code Reasoning through Fine-Tuning Pre-Trained Language Models
 
-> ![NOTE]
+> [!NOTE]
 > Requires Python 3.12.9 and CUDA 12.8 with PyTorch 2.8.0.
 
 ## Overview
